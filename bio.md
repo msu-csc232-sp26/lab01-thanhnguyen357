@@ -1,5 +1,5 @@
 # All About Me!
 
-I rock, and I deserve an A!
+~~ I rock, and I deserve an A!
 
-Oh, and GO Bills!
+* Oh, and GO Bills!
